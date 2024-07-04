@@ -1,0 +1,1 @@
+Projeto de verificação de CPF em Python, realizado como uma das tarefas do Curso de Python 3 do básico ao avançado. Com esse projeto aprendi como aplicar as lógicas que aprendi na parte iniciante do curso para fazer uma verificação.
